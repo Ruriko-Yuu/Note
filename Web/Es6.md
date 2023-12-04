@@ -1,4 +1,4 @@
-ss## var & let & const
+## var & let & const
 
 - var 在 for 循环共享相同变量的引用，所以每次输出变量时值是相同的
 - const 在 for 循环中创建变量时会报错，而在 for in 和 for of 中使用会创建新的绑定所以不会报错
